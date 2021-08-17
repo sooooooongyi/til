@@ -12,3 +12,21 @@
 
 ### 2021-08-05
 - https://velog.io/@songsong/TIL-DAY4
+
+### 2021-08-06
+- https://velog.io/@songsong/TIL-DAY5
+
+### 2021-08-09
+- https://velog.io/@songsong/TIL-DAY8
+
+### 2021-08-10
+- https://velog.io/@songsong/TIL-DAY9
+
+### 2021-08-11
+- https://velog.io/@songsong/TIL-DAY10
+
+### 2021-08-12
+- https://velog.io/@songsong/TIL-DAY11
+
+### 2021-08-13
+- https://velog.io/@songsong/TIL-DAY12
