@@ -30,3 +30,12 @@
 
 ### 2021-08-13
 - https://velog.io/@songsong/TIL-DAY12
+
+### 2021-08-16
+- https://velog.io/@songsong/TIL-DAY11-zirrhkny
+
+### 2021-08-17
+- https://velog.io/@songsong/TIL-DAY12-f85ga6o4
+
+### 2021-08-18
+- https://velog.io/@songsong/TIL-DAY13
