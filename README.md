@@ -27,6 +27,7 @@ Guide| [📝](https://velog.io/@songsong/TIL-Guide)
 
 ### 21-08
 
+```
 |날짜|링크|
 |:---:|:---:|
 |21-08-02|[📝](https://velog.io/@songsong/TIL-DAY1)|
@@ -51,6 +52,7 @@ Guide| [📝](https://velog.io/@songsong/TIL-Guide)
 |21-08-27|[📝](https://velog.io/@songsong/TIL-DAY20)|
 |21-08-30|[📝](https://velog.io/@songsong/TIL-DAY21)|
 |21-08-31|[📝](https://velog.io/@songsong/TIL-DAY22)|
+```
 
 ### 21-08
 
