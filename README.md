@@ -2,16 +2,16 @@
 > 블로그에 정리해두었습니다. [이곳](https://velog.io/@songsong)를 눌러주세요!
 
 ### 21-04
-[📝](https://velog.io/@songsong/TIL-Guide)
-```
-Guide| [📝](https://velog.io/@songsong/TIL-Guide)
-21-04-08|[📝](https://velog.io/@songsong/2021-04-08-TIL)
-21-04-09|[📝](https://velog.io/@songsong/2021-04-09-TIL)
-21-04-10|[📝](https://velog.io/@songsong/2021-04-10-TIL)
-21-04-11|[📝](https://velog.io/@songsong/2021-04-12-TIL)
-21-04-12|[📝](https://velog.io/@songsong/2021-04-12-TIL-q02m9ggy)
-21-04-13|[📝](https://velog.io/@songsong/2021-04-13-TIL)
-```
+
+|날짜|링크|
+|:---:|:---:|
+|Guide|[📝](https://velog.io/@songsong/TIL-Guide)|
+|21-04-08|[📝](https://velog.io/@songsong/2021-04-08-TIL)|
+|21-04-09|[📝](https://velog.io/@songsong/2021-04-09-TIL)|
+|21-04-10|[📝](https://velog.io/@songsong/2021-04-10-TIL)|
+|21-04-11|[📝](https://velog.io/@songsong/2021-04-12-TIL)|
+|21-04-12|[📝](https://velog.io/@songsong/2021-04-12-TIL-q02m9ggy)|
+|21-04-13|[📝](https://velog.io/@songsong/2021-04-13-TIL)|
 
 ### 21-05
 
@@ -27,7 +27,6 @@ Guide| [📝](https://velog.io/@songsong/TIL-Guide)
 
 ### 21-08
 
-```
 |날짜|링크|
 |:---:|:---:|
 |21-08-02|[📝](https://velog.io/@songsong/TIL-DAY1)|
@@ -52,7 +51,6 @@ Guide| [📝](https://velog.io/@songsong/TIL-Guide)
 |21-08-27|[📝](https://velog.io/@songsong/TIL-DAY20)|
 |21-08-30|[📝](https://velog.io/@songsong/TIL-DAY21)|
 |21-08-31|[📝](https://velog.io/@songsong/TIL-DAY22)|
-```
 
 ### 21-08
 
@@ -70,4 +68,3 @@ Guide| [📝](https://velog.io/@songsong/TIL-Guide)
 |21-09-14|[📝](https://velog.io/@songsong/TIL-DAY32)|
 |21-09-15|[📝](https://velog.io/@songsong/TIL-DAY33)|
 |21-09-16|[📝](https://velog.io/@songsong/TIL-DAY34)|
-
