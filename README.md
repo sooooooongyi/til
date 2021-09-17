@@ -24,7 +24,7 @@
 
 |주차|❤|
 |:---:|:---:|
-|1주차|[21-08-02](https://velog.io/@songsong/TIL-DAY1) / [21-08-03](https://velog.io/@songsong/TIL-DAY2 / [21-08-04](https://velog.io/@songsong/TIL-DAY3) / [21-08-05](https://velog.io/@songsong/TIL-DAY4) / [21-08-06](https://velog.io/@songsong/TIL-DAY5)|
+|1주차|[21-08-02](https://velog.io/@songsong/TIL-DAY1) / [21-08-03](https://velog.io/@songsong/TIL-DAY2) / [21-08-04](https://velog.io/@songsong/TIL-DAY3) / [21-08-05](https://velog.io/@songsong/TIL-DAY4) / [21-08-06](https://velog.io/@songsong/TIL-DAY5)|
 |2주차|[21-08-09](https://velog.io/@songsong/TIL-DAY8) / [21-08-10](https://velog.io/@songsong/TIL-DAY9) / [21-08-11](https://velog.io/@songsong/TIL-DAY10) / [21-08-12](https://velog.io/@songsong/TIL-DAY11) / [21-08-13](https://velog.io/@songsong/TIL-DAY12)|
 |3주차|[21-08-16](https://velog.io/@songsong/TIL-DAY11-zirrhkny) / [21-08-17](https://velog.io/@songsong/TIL-DAY12-f85ga6o4) / [21-08-18](https://velog.io/@songsong/TIL-DAY13) / [21-08-19](https://velog.io/@songsong/TIL-DAY14) / [21-08-20](https://velog.io/@songsong/%ED%9A%8C%EA%B3%A0%EB%8D%B0%EB%B8%8C%EC%BD%94%EC%8A%A4-%EC%B2%98%EC%9D%8C%EC%93%B0%EB%8A%94-%ED%9A%8C%EA%B3%A0)|
 |4주차|[21-08-23](https://velog.io/@songsong/TIL-DAY16) / [21-08-24](https://velog.io/@songsong/TIL-DAY17) / [21-08-25](https://velog.io/@songsong/TIL-DAY18) / [21-08-26](https://velog.io/@songsong/TIL-DAY19) / [21-08-27](https://velog.io/@songsong/TIL-DAY20)|
