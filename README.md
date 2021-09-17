@@ -3,15 +3,11 @@
 
 ### 21-04
 
-|날짜|링크|
-|:---:|:---:|
-|Guide|[📝](https://velog.io/@songsong/TIL-Guide)|
-|21-04-08|[📝](https://velog.io/@songsong/2021-04-08-TIL)|
-|21-04-09|[📝](https://velog.io/@songsong/2021-04-09-TIL)|
-|21-04-10|[📝](https://velog.io/@songsong/2021-04-10-TIL)|
-|21-04-11|[📝](https://velog.io/@songsong/2021-04-12-TIL)|
-|21-04-12|[📝](https://velog.io/@songsong/2021-04-12-TIL-q02m9ggy)|
-|21-04-13|[📝](https://velog.io/@songsong/2021-04-13-TIL)|
+|주차|1|2|3|4|5|
+|:---:|:---:|:---:|
+|0주차|Guide|[📝](https://velog.io/@songsong/TIL-Guide)|
+|1주차|[21-04-08](https://velog.io/@songsong/2021-04-08-TIL)|[21-04-09](https://velog.io/@songsong/2021-04-09-TIL)|[21-04-10](https://velog.io/@songsong/2021-04-10-TIL)|[21-04-11](https://velog.io/@songsong/2021-04-12-TIL)|[21-04-12](https://velog.io/@songsong/2021-04-12-TIL-q02m9ggy)|
+|2주차|[21-04-13](https://velog.io/@songsong/2021-04-13-TIL)|
 
 ### 21-05
 
