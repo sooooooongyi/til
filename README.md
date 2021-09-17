@@ -1,12 +1,11 @@
 ## TIL 📝
-> 블로그에 정리해두었습니다. [이곳](https://velog.io/@songsong)를 눌러주세요!
+> 블로그에 정리해두었습니다. [이곳](https://velog.io/@songsong/TIL-Guide)를 눌러주세요!
 
 ### 21-04
 
-|주차|1|2|3|4|5|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|0주차|[Guide](https://velog.io/@songsong/TIL-Guide)|
-|1주차|[21-04-08](https://velog.io/@songsong/2021-04-08-TIL)|[21-04-09](https://velog.io/@songsong/2021-04-09-TIL)|[21-04-10](https://velog.io/@songsong/2021-04-10-TIL)|[21-04-11](https://velog.io/@songsong/2021-04-12-TIL)|[21-04-12](https://velog.io/@songsong/2021-04-12-TIL-q02m9ggy)|
+|주차|❤|
+|:---:|:---:|
+|1주차|[21-04-08](https://velog.io/@songsong/2021-04-08-TIL)[21-04-09](https://velog.io/@songsong/2021-04-09-TIL)[21-04-10](https://velog.io/@songsong/2021-04-10-TIL)[21-04-11](https://velog.io/@songsong/2021-04-12-TIL)[21-04-12](https://velog.io/@songsong/2021-04-12-TIL-q02m9ggy)|
 |2주차|[21-04-13](https://velog.io/@songsong/2021-04-13-TIL)|
 
 ### 21-05
