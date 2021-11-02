@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:89cff0,100:cfebf9&height=200&section=header&text=PetSalon&fontSize=60&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:89cff0,100:cfebf9&height=300&section=header&text=PetSalon&fontSize=90&animation=fadeIn)
 > 🐶 한 올까지 소중한 우리집 멍냥이를 위한 미용 후기 서비스입니다. ✂ ❤
 
 ## 팀 노션 [[Link](https://www.notion.so/PetSalon-dd82a36e358b499481d3ba8f2b3ad436)]
