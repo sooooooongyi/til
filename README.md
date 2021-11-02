@@ -1,6 +1,8 @@
 ## TIL 📝
 > 블로그에 정리해두었습니다. [이곳](https://velog.io/@songsong/TIL-Guide)를 눌러주세요!
 
+<img src="https://img.shields.io/badge/React-11B48A?style=flat-square&logo=React&logoColor=white&link=https://ko.reactjs.org/">
+
 ### 21-04
 
 |주차|❤|
