@@ -1,7 +1,7 @@
 ## TIL 📝
 > 블로그에 정리해두었습니다. [이곳](https://velog.io/@songsong/TIL-Guide)를 눌러주세요!
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90?type=slice)
 <img src="https://img.shields.io/badge/React-11B48A?style=flat-square&logo=React&logoColor=white&link=https://ko.reactjs.org/">
 
 ### 21-04
