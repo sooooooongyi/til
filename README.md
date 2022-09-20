@@ -93,6 +93,7 @@
 - [변수다루기](https://github.com/thddlmy/til/blob/main/lectures/clean-code/%EB%B3%80%EC%88%98%EB%8B%A4%EB%A3%A8%EA%B8%B0.md)
 - [분기다루기](https://github.com/thddlmy/til/blob/main/lectures/clean-code/%EB%B6%84%EA%B8%B0%EB%8B%A4%EB%A3%A8%EA%B8%B0.md)
 - [타입다루기](https://github.com/thddlmy/til/blob/main/lectures/clean-code/%ED%83%80%EC%9E%85%EB%8B%A4%EB%A3%A8%EA%B8%B0.md)
+- [함수다루기](https://github.com/thddlmy/til/blob/main/lectures/clean-code/%ED%95%A8%EC%88%98%EB%8B%A4%EB%A3%A8%EA%B8%B0.md)
 
 ## 🗂 assets
 
