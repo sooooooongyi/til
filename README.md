@@ -85,6 +85,8 @@
 - [[5]프로토타입](https://github.com/thddlmy/til/blob/main/books/you-dont-know-js/%5B5%5D%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85.md)
 - [[6]작동위임](https://github.com/thddlmy/til/blob/main/books/you-dont-know-js/%5B6%5D%EC%9E%91%EB%8F%99%EC%9C%84%EC%9E%84.md)
 
+### 📔 deep-dive
+
 ## 🗂 lectures
 
 > 강의를 듣고 정리한 디렉토리입니다.
